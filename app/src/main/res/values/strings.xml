@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Web Browser</string>
+    <string name="search_or_type_url">Search or Type URL</string>
+    <string name="todo0">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+</resources>
